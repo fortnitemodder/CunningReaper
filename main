@@ -40,8 +40,6 @@ _G.BlockedDomains  = _G.BlockedDomains or {
     "roblox.com/users/";
     "roblox.com/users";
     "roblox.com";
-    "webhook.site/";
-    "webhook.site";
     
     -- Server hosters
     
