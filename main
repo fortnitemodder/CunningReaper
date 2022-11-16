@@ -27,7 +27,6 @@ _G.BlockedDomains  = _G.BlockedDomains or {
     -- Webhooks
     
     "discord.com/api/webhooks/";
-    "webhook";
     "hypernite";
     "schervi.wtf";  -- exposed scammer website ( psx )
     "schervi.wtf/Pogchamp.lua";
